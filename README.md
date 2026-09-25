@@ -1,5 +1,7 @@
 # Sky Island Hatchlings
 
+**Play:** https://jev-sky-islands-rouge.vercel.app (ask whoever shared this link for the invite code)
+
 Hatch a creature from your own description, then talk your way across 10 floating islands.
 Type anything: **Jev** (TypeSafe) judges each move, the dice decide, and your creature's
 personality (kind / sneaky / brave / silly) grows from how you play.
